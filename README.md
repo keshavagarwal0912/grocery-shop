@@ -1,12 +1,16 @@
-# 🐰 Rabbit Mart
+# Grocery Shop
 
-Rabbit Mart is a new Egyptian startup that guarantees delivery within 20 minutes of specified locations. While Rabbit
-Mart is only available on mobile platforms, our job is to make the shopping experience available to web users as well.
+Grocery shop is an assignment.
 
-## Screenshots
-![Landing Page](https://i.ibb.co/sR92dH4/Screenshot-24.png)
-![Products Page](https://i.ibb.co/T2jh3B5/Screenshot-25.png)
-![Login Page](https://i.ibb.co/H4jvt9K/Screenshot-26.png)
+# Screenshots
+
+![image](https://user-images.githubusercontent.com/97944847/200615373-96e903a7-a814-4dac-9d40-6f0943717104.png)
+![image](https://user-images.githubusercontent.com/97944847/200615490-b6c22c36-4165-44b2-8b34-075c7d925d1d.png)
+![image](https://user-images.githubusercontent.com/97944847/200615623-2b9ac850-0ff9-48a2-b43a-e0cf529e4367.png)
+![image](https://user-images.githubusercontent.com/97944847/200615778-528eab6d-bc2d-4a02-89ae-eeef3be133f6.png)
+![image](https://user-images.githubusercontent.com/97944847/200616000-835a03f4-d4e4-4a62-980b-5611d10d0df9.png)
+![image](https://user-images.githubusercontent.com/97944847/200616116-2e058e4c-d150-4b7e-8182-dbe9211697e1.png)
+![image](https://user-images.githubusercontent.com/97944847/200616193-314347c7-2919-450d-bbe9-54abb1a7fc7a.png)
 
 
 ## Tech Stack
@@ -16,16 +20,7 @@ Mart is only available on mobile platforms, our job is to make the shopping expe
 | React        | Node.js      |
 | React Router | Express.js   |
 | Redux        | MongoDB      |
-| Axios        | Stripe       |
-|              | SendGrid     |
 
-## Usage
-
-### Clone the Project
-
-```bash
-$ git clone https://github.com/skittlesaur/rabbitmart
-```
 
 **Note:** the `master` branch is the current production build. `releases` contain latest deployment tests. `develop` contains all new features and build.
 
@@ -64,13 +59,4 @@ $ cd server   # go to the server folder
 $ npm i       # install packages
 $ npm start   # start the server
 ```
-
-## Authors
-
-<table>
-    <td align="center"><a href="https://skittlesaur.github.io"><sub><b>Baraa A.</b></sub></a><br /><a href="https://github.com/skittlesaur/rabbitmart/commits?author=skittlesaur" title="Commits">📖</a></td>
-    <td align="center"><a href="https://github.com/emansalehkhalil"><sub><b>Eman S.</b></sub></a><br /><a href="https://github.com/skittlesaur/rabbitmart/commits?author=emansalehkhalil" title="Commits">📖</a></td>
-    <td align="center"><a href="https://github.com/ssary"><sub><b>Sary N.</b></sub></a><br /><a href="https://github.com/skittlesaur/rabbitmart/commits?author=ssary" title="Commits">📖</a></td>
-    <td align="center"><a href="https://github.com/youssefsaadgiu"><sub><b>Youssef S.</b></sub></a><br /><a href="https://github.com/skittlesaur/rabbitmart/commits?author=youssefsaadgiu" title="Commits">📖</a></td>
-</table>
 
