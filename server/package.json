@@ -1,5 +1,5 @@
 {
-  "name": "rabbitmart-server",
+  "name": "grocery_shop-server",
   "version": "0.0.0",
   "private": true,
   "type": "module",
